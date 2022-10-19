@@ -58,14 +58,19 @@ header nav a:hover {
 .botoes{
     margin-top: 2%;
 }
+.button i {
+    margin: 10px;
+}
 .button {
-    width: 100px;
-    padding: 1%;
+    width: 150px;
+    padding: 10px;
     border-radius: 30px;
     font-size: 18px;
+    background-color: rgba(170, 170, 170, 0.568);
 }
 button:hover{
     background-color: #252525;
     color: #fff;
     border: 2px solid #fff;
+    transition: 0.3s ease-in;
 }
