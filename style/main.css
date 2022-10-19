@@ -11,11 +11,18 @@
 }
 body{
     background-color: #141414;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Desing do HEADER*/
+header{
+    height: 50px;
 }
 header nav a {
     text-decoration: none;
     color: #AAA;
     margin: 15px;
+    
 }
 header nav a:hover {
     color: #fff;
@@ -28,5 +35,37 @@ header nav a:hover {
 .logo{
     color: #E50914;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 5px;
+    margin-left: 10px;
+    font-size: 30px;
+}
+/* Design do MAIN */
+
+/* Desing do filme em destaque */
+.filmEmDestaque {
+    background-image:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(../imagens/Wiener\ Philharmoniker\ -\ Gustavo\ Dudamel\ .jpg);
+    background-size: cover;
+    font-size: 18px;
+    height: 400px;
+    padding: 1%;
+}
+.informacoesDoFilm {
+    width: 50%;
+}
+.titulo{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.botoes{
+    margin-top: 2%;
+}
+.button {
+    width: 100px;
+    padding: 1%;
+    border-radius: 30px;
+    font-size: 18px;
+}
+button:hover{
+    background-color: #252525;
+    color: #fff;
+    border: 2px solid #fff;
 }
