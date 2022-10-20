@@ -3,6 +3,12 @@
         display: flex;
         flex-direction: column;
     }
+    .menu {
+        margin-top: 2%;
+    }
+    main {
+        margin-top: 3%;
+    }
     .informacoesDoFilm {
         width: 90%;
     }
