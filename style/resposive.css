@@ -1,0 +1,13 @@
+@media screen and (max-width: 500px){
+    header {
+        display: flex;
+        flex-direction: column;
+    }
+    .informacoesDoFilm {
+        width: 90%;
+    }
+    .cartaz {
+        height: 300px;
+    }
+    
+}

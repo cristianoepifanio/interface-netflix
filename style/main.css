@@ -45,7 +45,7 @@ header nav a:hover {
     background-image:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(../imagens/Wiener\ Philharmoniker\ -\ Gustavo\ Dudamel\ .jpg);
     background-size: cover;
     font-size: 18px;
-    height: 400px;
+    height: 20%;
     padding: 1%;
     
 }
