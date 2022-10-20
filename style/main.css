@@ -26,6 +26,7 @@ header nav a {
 }
 a{
     text-decoration: none;
+    color: #fff;
 }
 header nav a:hover {
     color: #fff;
