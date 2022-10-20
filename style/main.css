@@ -24,6 +24,9 @@ header nav a {
     margin: 15px;
     
 }
+a{
+    text-decoration: none;
+}
 header nav a:hover {
     color: #fff;
 }
@@ -45,7 +48,7 @@ header nav a:hover {
     background-image:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(../imagens/Wiener\ Philharmoniker\ -\ Gustavo\ Dudamel\ .jpg);
     background-size: cover;
     font-size: 18px;
-    height: 20%;
+    height: 40%;
     padding: 1%;
     
 }
@@ -88,4 +91,10 @@ button:hover{
 }
 div .item h2 {
     margin: auto;
+}
+
+.video{
+    align-items: center;
+    margin-left: 10%;
+    margin-top: 3%;
 }
