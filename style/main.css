@@ -24,6 +24,10 @@ header nav a {
     margin: 15px;
     
 }
+iframe {
+    width: 90%;
+    height: 500px;
+}
 a{
     text-decoration: none;
     color: #fff;
