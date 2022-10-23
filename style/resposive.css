@@ -6,6 +6,9 @@
     h2 {
         margin-top: 5%;
     }
+    iframe {
+        height: 200px;
+    }
     .menu {
         margin-top: 2%;
     }
